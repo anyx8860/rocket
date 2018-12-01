@@ -7,7 +7,7 @@
 5,Pegasus Hybrid | High Energy Transient Explorer 2 (HETE-2),Orbital Sciences Corporation,"October 9, 2000 05:38:00 UTC",8.716667,167.733333,S,Na
 6,Pegasus XL | Galaxy Evolution Explorer (GALEX),Orbital Sciences Corporation,"April 28, 2003 12:00:00 UTC",28.455556,-80.527778,S,Na
 7,Pegasus XL | Interstellar Boundary Explorer (IBEX),Orbital Sciences Corporation,"October 19, 2008 17:47:23 UTC",8.716667,167.733333,S,Na
-8,Pegasus XL | Ionospheric Connection Explorer (ICON),Northrop Grumman Innovation Systems,"November 19, 2018 08:05:00 UTC",28.455556,-80.527778,S,Na
+8,Pegasus XL | Ionospheric Connection Explorer (ICON),Northrop Grumman Innovation Systems,"December 1, 2018 00:00:00 UTC",28.455556,-80.527778,S,Na
 9,Ariane 5 ECA | JUICE (JUpiter ICy moons Explorer),Arianespace,"January 1, 2022 00:00:00 UTC",5.239,-52.768,S,Na
 10,"Electron  | Still Testing (Dove Pioneer, 2 x Lemur-2)",Rocket Lab Ltd,"January 21, 2018 05:30:00 UTC",-39.262833,177.864469,S,Na
 11,Electron  | Lunar Scout,Rocket Lab Ltd,"January 1, 2019 00:00:00 UTC",-39.262833,177.864469,S,Na
@@ -90,7 +90,7 @@
 88,"Proton-M/DM-2 Enhanced | 3 x Glonass-M (Kosmos 2464, Kosmos 2465, Kosmos 2466)",Khrunichev State Research and Production Space Center,"September 2, 2010 00:53:43 UTC",46.071001,62.984999,S,Na
 89,Proton-M Briz-M | Sirius XM-5,International Launch Services,"October 14, 2010 18:53:00 UTC",46.071001,62.984999,S,Na
 90,Ariane 5 GS | Intelsat 11 & Optus D2,Arianespace,"October 5, 2007 22:02:00 UTC",5.239,-52.768,S,Na
-91,Atlas V 431 | Intelsat 14,United Launch Alliance,"November 23, 2009 06:55:00 UTC",28.58341025,-80.58303644,F,
+91,Atlas V 431 | Intelsat 14,United Launch Alliance,"November 23, 2009 06:55:00 UTC",28.58341025,-80.58303644,S,Na
 92,Proton-M / Briz-M Enhanced | Intelsat 16,International Launch Services,"February 12, 2010 00:39:40 UTC",46.039984,63.032093,S,Na
 93,Ariane 5 ECA | Intelsat 17 & HYLAS 1,Arianespace,"November 26, 2010 18:39:00 UTC",5.239,-52.768,S,Na
 94,Zenit-3SLB | Intelsat 18,Land Launch,"October 5, 2011 21:00:00 UTC",45.943492,63.653014,S,Na
@@ -109,7 +109,7 @@
 107,Saturn V | Apollo 11,National Aeronautics and Space Administration,"July 16, 1969 13:32:00 UTC",28.60822681,-80.60428186,S,Na
 108,Saturn V | Apollo 12,National Aeronautics and Space Administration,"November 14, 1969 16:22:00 UTC",28.60822681,-80.60428186,S,Na
 109,Saturn V | Apollo 13,National Aeronautics and Space Administration,"April 11, 1970 19:13:00 UTC",28.60822681,-80.60428186,S,Na
-110,Pegasus HAPS | 7 microsats,Orbital Sciences Corporation,"July 17, 1991 17:33:53 UTC",34.905556,-117.883611,F,
+110,Pegasus HAPS | 7 microsats,Orbital Sciences Corporation,"July 17, 1991 17:33:53 UTC",34.905556,-117.883611,S,Na
 111,Pegasus XL | Broadband Advanced Technologies Satellite (BATSAT/Teledesic T1) & Student Nitric Oxide Explorer (SNOE),Orbital Sciences Corporation,"February 26, 1998 07:07:00 UTC",34.732778,-120.568056,S,Na
 112,Pegasus XL | Space Technology 5 (ST-5) (3x microsats),Orbital Sciences Corporation,"March 28, 2006 20:10:00 UTC",34.732778,-120.568056,S,Na
 113,Falcon 1 | RatSat,SpaceX,"September 8, 2008 23:15:00 UTC",9.047861,167.743,S,Na
@@ -141,7 +141,7 @@
 139,Pegasus XL | Space Test Experiments Platform 1 (STEP-1),Orbital Sciences Corporation,"June 27, 1994 21:15:00 UTC",34.732778,-120.568056,F,Flight termination after loss of vehicle control 35 seconds into flight
 140,Pegasus XL | Space Test Experiments Platform-3 (STEP-3),Orbital Sciences Corporation,"June 22, 1995 19:58:00 UTC",34.732778,-120.568056,F,Destroyed during second stage flight
 141,Pegasus XL | Space Test Experiments Platform-4 (STEP-4),Orbital Sciences Corporation,"October 22, 1997 13:13:00 UTC",37.938611,-75.457222,S,Na
-142,Pegasus XL | Tri-Services Experiments Platform-5 (TSX-5),Orbital Sciences Corporation,"June 7, 2000 13:19:00 UTC",34.732778,-120.568056,F,
+142,Pegasus XL | Tri-Services Experiments Platform-5 (TSX-5),Orbital Sciences Corporation,"June 7, 2000 13:19:00 UTC",34.732778,-120.568056,S,Na
 143,"Rokot / Briz-KM | Swarm A, B, C",Eurockot Launch Services,"November 22, 2013 12:02:29 UTC",62.886999,40.846984,S,Na
 144,Falcon 9 Full Thrust | Formosat 5,SpaceX,"August 24, 2017 19:33:00 UTC",34.632,-120.611,S,Na
 145,Proton-M/Briz-M | ExoMars 2020 surface platform & rover,Khrunichev State Research and Production Space Center,"July 25, 2020 00:00:00 UTC",46.039984,63.032093,S,Na
@@ -186,7 +186,7 @@
 184,"Ariane 5 G | MaqSat-H, TEAMSAT, MaqSat-B, YES",Arianespace,"October 30, 1997 13:43:00 UTC",5.239,-52.768,S,Na
 185,"Ariane 5 G | PAS-1R, Amsat P3D, STRV 1C, STRV 1D",Arianespace,"November 16, 2000 01:07:00 UTC",5.239,-52.768,S,Na
 186,Ariane 5 ECA | Amazonas 2 & COMSATBw-1,Arianespace,"October 1, 2009 21:59:00 UTC",5.239,-52.768,S,Na
-187,Atlas V 401 | DMSP-5D3 F18 (USA-210),United Launch Alliance,"October 18, 2009 16:12:00 UTC",34.64,-120.5895,F,
+187,Atlas V 401 | DMSP-5D3 F18 (USA-210),United Launch Alliance,"October 18, 2009 16:12:00 UTC",34.64,-120.5895,S,Na
 188,Ariane 5 ECA | Astra 3B & COMSATBw-2,Arianespace,"May 21, 2010 22:01:00 UTC",5.239,-52.768,S,Na
 189,Ariane 5 ECA | ArabSat-5A & COMS-1 (Chollian),Arianespace,"June 26, 2010 21:41:00 UTC",5.239,-52.768,S,Na
 190,Atlas V 541 | MSL (Curiosity),United Launch Alliance,"October 26, 2011 15:02:00 UTC",28.58341025,-80.58303644,S,Na
@@ -203,7 +203,7 @@
 201,Proton-M | MLM Nauka,Khrunichev State Research and Production Space Center,"November 8, 2019 00:00:00 UTC",46.039984,63.032093,S,Na
 202,Voskhod | Voskhod 1,Soviet Space Program,"October 13, 1964 07:47:04 UTC",45.92,63.342,S,Na
 203,Voskhod | Voskhod 2,Soviet Space Program,"March 18, 1965 07:00:00 UTC",45.92,63.342,S,Na
-204,Delta II 7320-10C | NOAA-19 (NOAA N),United Launch Alliance,"February 6, 2009 10:22:00 UTC",34.7556,-120.6224,F,
+204,Delta II 7320-10C | NOAA-19 (NOAA N),United Launch Alliance,"February 6, 2009 10:22:00 UTC",34.7556,-120.6224,S,Na
 205,Long March 3B/E | TXJSSY-1 / TJSSW-1 / TJS-1,China Aerospace Science and Technology Corporation,"September 12, 2015 16:30:00 UTC",28.246017,102.026556,S,Na
 206,Long March 3B | TXJSSY-2 / TJSSW-2 / TJS-2,China Aerospace Science and Technology Corporation,"January 5, 2017 15:45:00 UTC",28.246017,102.026556,S,Na
 207,Titan IIIE | Sphinx (Titan IIIE Maiden Flight),Lockheed Martin,"February 11, 1974 13:48:02 UTC",28.58341025,-80.58303644,F,Centaur LOX turbopump malfunction. RSO destruct at T+742 seconds.
@@ -229,7 +229,7 @@
 227,"Ariane 5 G | MaqSat-H, TEAMSAT, MaqSat-B, YES",Arianespace,"October 30, 1997 13:43:00 UTC",5.239,-52.768,S,Na
 228,"Ariane 5 G | PAS-1R, Amsat P3D, STRV 1C, STRV 1D",Arianespace,"November 16, 2000 01:07:00 UTC",5.239,-52.768,S,Na
 229,"Soyuz-2.1a/Volga | Mikhailo Lomonosov, Aist-2D & SamSat 218",Russian Federal Space Agency (ROSCOSMOS),"April 28, 2016 02:01:00 UTC",51.884395,128.333932,S,Na
-230,Atlas V 401 | NROL-30 & NOSS-3 (USA-194),United Launch Alliance,"June 15, 2007 15:11:00 UTC",28.58341025,-80.58303644,F,
+230,Atlas V 401 | NROL-30 & NOSS-3 (USA-194),United Launch Alliance,"June 15, 2007 15:11:00 UTC",28.58341025,-80.58303644,S,Na
 231,Atlas V 411 | NROL-34 (2 x NOSS (USA-229)),United Launch Alliance,"April 14, 2011 04:24:00 UTC",34.64,-120.5895,S,Na
 232,"Delta IV M+(4,2) | NROL-27 (SDS) (USA-227)",United Launch Alliance,"March 11, 2011 23:38:00 UTC",28.5317,-80.56495,S,Na
 233,Atlas V 401 | NROL-38 (SDS) (USA-236),United Launch Alliance,"June 20, 2012 12:28:00 UTC",28.58341025,-80.58303644,S,Na
@@ -266,7 +266,7 @@
 264,Atlas V 401 | TDRS-K,United Launch Alliance,"January 31, 2013 01:48:00 UTC",28.58341025,-80.58303644,S,Na
 265,Atlas V 401 | TDRS-L,United Launch Alliance,"January 24, 2014 02:33:00 UTC",28.58341025,-80.58303644,S,Na
 266,Atlas V 401 | TDRS-M,United Launch Alliance,"August 18, 2017 12:43:00 UTC",28.58341025,-80.58303644,S,Na
-267,"Delta IV M+(4,2) | GOES-14",United Launch Alliance,"June 27, 2009 22:51:00 UTC",28.5317,-80.56495,F,
+267,"Delta IV M+(4,2) | GOES-14",United Launch Alliance,"June 27, 2009 22:51:00 UTC",28.5317,-80.56495,S,Na
 268,"Delta IV M+(4,2) | GOES-P (GOES 15)",United Launch Alliance,"March 4, 2010 23:57:00 UTC",28.5317,-80.56495,S,Na
 269,Atlas V 541 | GOES-R,United Launch Alliance,"November 19, 2016 23:42:00 UTC",28.58341025,-80.58303644,S,Na
 270,Atlas V 541 | GOES-S,United Launch Alliance,"March 2, 2018 00:02:00 UTC",28.58341025,-80.58303644,S,Na
@@ -283,8 +283,8 @@
 281,Ariane 5 ECA | Astra 1N & BSAT-3c/JCSAT-110R,Arianespace,"August 6, 2011 22:52:00 UTC",5.239,-52.768,S,Na
 282,Pegasus  | Advanced Photovoltaic Experiment (APEX),Orbital Sciences Corporation,"June 27, 1994 21:15:00 UTC",34.905556,-117.883611,S,Na
 283,Pegasus XL | Broadband Advanced Technologies Satellite (BATSAT/Teledesic T1) & Student Nitric Oxide Explorer (SNOE),Orbital Sciences Corporation,"February 26, 1998 07:07:00 UTC",34.732778,-120.568056,S,Na
-284,Delta II 7920-10C | STSS-ATRR/GMD (USA-205),United Launch Alliance,"May 5, 2009 20:24:00 UTC",34.7556,-120.6224,F,
-285,Delta II 7920-10C | STSS-DEMO/GMD,United Launch Alliance,"September 25, 2009 12:20:00 UTC",28.4458,-80.5657,F,
+284,Delta II 7920-10C | STSS-ATRR/GMD (USA-205),United Launch Alliance,"May 5, 2009 20:24:00 UTC",34.7556,-120.6224,S,Na
+285,Delta II 7920-10C | STSS-DEMO/GMD,United Launch Alliance,"September 25, 2009 12:20:00 UTC",28.4458,-80.5657,S,Na
 286,Ariane 5 G | INSAT-3A & Galaxy 12,Arianespace,"April 9, 2003 22:52:00 UTC",5.239,-52.768,S,Na
 287,Pegasus XL | Galaxy Evolution Explorer (GALEX),Orbital Sciences Corporation,"April 28, 2003 12:00:00 UTC",28.455556,-80.527778,S,Na
 288,Atlas V 401 | SBIRS GEO Flight 1 (USA-230) (SBIRS GEO-1),United Launch Alliance,"May 7, 2011 18:10:00 UTC",28.58341025,-80.58303644,S,Na
@@ -365,7 +365,7 @@
 363,Soyuz-2.1a/Fregat | 6 x Globalstar-2,Starsem SA,"December 28, 2011 17:09:00 UTC",45.996034,63.564003,S,Na
 364,Soyuz-2.1a/Fregat | 6 x Globalstar-2,Starsem SA,"February 6, 2013 16:04:24 UTC",45.996034,63.564003,S,Na
 365,Pegasus XL | Wide Field Infrared Explorer (WIRE),Orbital Sciences Corporation,"March 5, 1999 02:56:00 UTC",34.732778,-120.568056,S,Na
-366,Delta IV Heavy | DSP-23,United Launch Alliance,"November 11, 2007 01:50:00 UTC",28.5317,-80.56495,F,
+366,Delta IV Heavy | DSP-23,United Launch Alliance,"November 11, 2007 01:50:00 UTC",28.5317,-80.56495,S,Na
 367,"Pegasus XL HAPS | Multiple Paths, Beyond-Line-of-Sight Communications (MUBLCOM)  & Topographic Experiment using Radiative Recombinative Ionospheric EUV and Radio Sources (TERRIERS)",Orbital Sciences Corporation,"May 18, 1999 05:09:00 UTC",34.732778,-120.568056,S,Na
 368,Proton-M / Briz-M Enhanced | Ekspress AM-4,Khrunichev State Research and Production Space Center,"August 17, 2011 21:25:00 UTC",46.039984,63.032093,S,Na
 369,Proton-M / Briz-M Enhanced | Telkom-3 & Ekspress MD2,Khrunichev State Research and Production Space Center,"August 6, 2012 19:31:00 UTC",46.071001,62.984999,S,Na
@@ -382,14 +382,14 @@
 380,H-IIA 202 | Astro-H (Hitomi),Mitsubishi Heavy Industries,"February 17, 2016 09:30:00 UTC",30.401,130.977,S,Na
 381,Ariane 5 GS | Thaicom 4,Arianespace,"August 11, 2005 08:20:00 UTC",5.239,-52.768,S,Na
 382,Ariane 5 ECA | Satmex 6 & Thaicom 5,Arianespace,"May 27, 2006 00:00:00 UTC",5.239,-52.768,S,Na
-383,Atlas V 421 | ICO G1,United Launch Alliance,"April 14, 2008 20:12:00 UTC",28.58341025,-80.58303644,F,
+383,Atlas V 421 | ICO G1,United Launch Alliance,"April 14, 2008 20:12:00 UTC",28.58341025,-80.58303644,S,Na
 384,Falcon 9 v1.1 | Thaicom-6,SpaceX,"January 6, 2014 22:06:00 UTC",28.56194122,-80.57735736,S,Na
 385,Ariane 5 ECA | DirecTV 15 & Sky Mexico 1,Arianespace,"May 27, 2015 21:40:00 UTC",5.239,-52.768,S,Na
 386,Falcon 9 Full Thrust | Thaicom 8,SpaceX,"May 27, 2016 23:39:00 UTC",28.56194122,-80.57735736,S,Na
 387,SS-520-4 | TRICOM-1,Japan Aerospace Exploration Agency,"January 14, 2017 23:50:00 UTC",31.251871,131.079089,S,Na
 388,SS-520-5 | TRICOM-1R,Japan Aerospace Exploration Agency,"February 3, 2018 05:13:00 UTC",31.251871,131.079089,S,Na
 389,Ariane 5 ECA | BepiColombo,Arianespace,"October 20, 2018 01:45:28 UTC",5.239,-52.768,S,Na
-390,Pegasus XL | Ionospheric Connection Explorer (ICON),Northrop Grumman Innovation Systems,"November 19, 2018 08:05:00 UTC",28.455556,-80.527778,S,Na
+390,Pegasus XL | Ionospheric Connection Explorer (ICON),Northrop Grumman Innovation Systems,"December 1, 2018 00:00:00 UTC",28.455556,-80.527778,S,Na
 391,"Ariane 5 G | Astra 2D & GE-8, LDREX",Arianespace,"December 20, 2000 00:26:00 UTC",5.239,-52.768,S,Na
 392,"Ariane 5 ECA | DirecTV-9S, Optus D1, LDREX-2",Arianespace,"October 13, 2006 20:56:00 UTC",5.239,-52.768,S,Na
 393,"Rokot / Briz-KM | Gonets-M12 & 2 x Strela-3 (Kosmos 2467, Kosmos 2468)",Russian Space Forces,"September 8, 2010 03:30:00 UTC",62.886999,40.846984,S,Na
@@ -485,11 +485,11 @@
 483,PSLV XL | IRNSS-1F,Indian Space Research Organization,"March 10, 2016 10:31:00 UTC",13.733,80.235,S,Na
 484,PSLV XL | IRNSS-1G,Indian Space Research Organization,"April 28, 2016 07:20:00 UTC",13.733,80.235,S,Na
 485,Pegasus XL | 8 x CYGNSS,Orbital ATK,"December 15, 2016 14:21:00 UTC",28.455556,-80.527778,S,Na
-486,Delta II 7920-10 | NROL-21,United Launch Alliance,"December 14, 2006 21:00:00 UTC",34.7556,-120.6224,F,
-487,Atlas V 401 | NROL-30 & NOSS-3 (USA-194),United Launch Alliance,"June 15, 2007 15:11:00 UTC",28.58341025,-80.58303644,F,
-488,Atlas V 401 | NROL-24 (USA-198),United Launch Alliance,"December 10, 2007 22:05:00 UTC",28.58341025,-80.58303644,F,
-489,Atlas V 411 | NROL-28 (USA-200),United Launch Alliance,"March 13, 2008 10:02:00 UTC",34.64,-120.5895,F,
-490,Delta IV Heavy | NROL-26 (USA-202),United Launch Alliance,"January 18, 2009 02:47:00 UTC",28.5317,-80.56495,F,
+486,Delta II 7920-10 | NROL-21,United Launch Alliance,"December 14, 2006 21:00:00 UTC",34.7556,-120.6224,S,Na
+487,Atlas V 401 | NROL-30 & NOSS-3 (USA-194),United Launch Alliance,"June 15, 2007 15:11:00 UTC",28.58341025,-80.58303644,S,Na
+488,Atlas V 401 | NROL-24 (USA-198),United Launch Alliance,"December 10, 2007 22:05:00 UTC",28.58341025,-80.58303644,S,Na
+489,Atlas V 411 | NROL-28 (USA-200),United Launch Alliance,"March 13, 2008 10:02:00 UTC",34.64,-120.5895,S,Na
+490,Delta IV Heavy | NROL-26 (USA-202),United Launch Alliance,"January 18, 2009 02:47:00 UTC",28.5317,-80.56495,S,Na
 491,Atlas V 501 | NROL-41 (USA-215),United Launch Alliance,"September 21, 2010 04:03:30 UTC",34.64,-120.5895,S,Na
 492,Delta IV Heavy | NROL-32 (Mentor (USA-223)),United Launch Alliance,"November 21, 2010 22:58:00 UTC",28.5317,-80.56495,S,Na
 493,Delta IV Heavy | NROL-49 (KH-11) (USA-224),United Launch Alliance,"January 20, 2011 21:10:00 UTC",34.5815,-120.6262,S,Na
@@ -524,7 +524,7 @@
 522,Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2485),Russian Aerospace Defence Forces,"April 26, 2013 05:23:41 UTC",62.92883,40.457098,S,Na
 523,Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2494),Russian Aerospace Defence Forces,"March 23, 2014 22:54:03 UTC",62.92883,40.457098,S,Na
 524,Soyuz-2.1b/Fregat | Glonass-M (Kosmos 2500),Russian Aerospace Defence Forces,"June 14, 2014 17:16:48 UTC",62.92883,40.457098,S,Na
-525,Delta II 7420-10 | GeoEye-1,United Launch Alliance,"September 6, 2008 18:50:00 UTC",34.7556,-120.6224,F,
+525,Delta II 7420-10 | GeoEye-1,United Launch Alliance,"September 6, 2008 18:50:00 UTC",34.7556,-120.6224,S,Na
 526,Rokot / Briz-KM | Geo-IK-2 №11L (Kosmos 2470),Russian Space Forces,"February 1, 2011 14:00:00 UTC",62.886999,40.846984,S,Na
 527,Atlas V 401 | SBIRS GEO Flight 1 (USA-230) (SBIRS GEO-1),United Launch Alliance,"May 7, 2011 18:10:00 UTC",28.58341025,-80.58303644,S,Na
 528,Atlas V 401 | SBIRS GEO Flight 2 (USA-241) (SBIRS GEO-2),United Launch Alliance,"March 19, 2013 21:21:00 UTC",28.58341025,-80.58303644,S,Na
@@ -533,7 +533,7 @@
 531,Atlas V 401 | SBIRS GEO Flight 3 (SBIRS GEO-4),United Launch Alliance,"January 21, 2017 01:22:00 UTC",28.58341025,-80.58303644,S,Na
 532,Atlas V 411 | SBIRS GEO Flight 4 (SBIRS GEO-3),United Launch Alliance,"January 20, 2018 01:32:00 UTC",28.58341025,-80.58303644,S,Na
 533,Ariane 5 ECA | GSAT-11 & GEO-KOMPSAT-2A,Arianespace,"December 4, 2018 21:34:00 UTC",5.239,-52.768,S,Na
-534,Rokot / Briz-KM | Geo-IK-2 N13L,Russian Space Forces,"January 1, 2019 00:00:00 UTC",62.886999,40.846984,F,
+534,Rokot / Briz-KM | Geo-IK-2 N13L,Russian Space Forces,"January 1, 2019 00:00:00 UTC",62.886999,40.846984,S,Na
 535,Minotaur-C (Taurus XL) | Glory,Orbital Sciences Corporation,"March 4, 2011 10:09:43 UTC",34.57635,-120.63245,S,Na
 536,"Soyuz-2.1b/Fregat | Meteor-M No.2, MKA-PN2, DX-1, UKube-1, TechDemoSat-1, SkySat-2, AISSat-2",Russian Federal Space Agency (ROSCOSMOS),"July 8, 2014 15:58:28 UTC",45.996034,63.564003,S,Na
 537,Vega | PerúSAT-1 / SkySat 4-7,Arianespace,"September 16, 2016 01:43:35 UTC",5.236,-52.775,S,Na
